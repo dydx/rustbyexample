@@ -1,0 +1,4 @@
+[package]
+name = "rustbyexample"
+version = "0.1.0"
+authors = [""Joshua Sandlin" <"joshua.sandlin@gmail.com">"]
